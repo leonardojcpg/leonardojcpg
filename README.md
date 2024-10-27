@@ -1,7 +1,6 @@
 ## Hey! my name is Leonardo.
 
-I'm a Software Engineer
-
+I'm a Android Developer
 ---
 
 ## 🚀 Skills
