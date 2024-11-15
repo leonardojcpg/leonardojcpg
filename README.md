@@ -1,6 +1,6 @@
 ## Hey! I'm Leonardo.
 
-I'm a Android Developer
+Android Developer
 ---
 
 ## 🚀 Skills
