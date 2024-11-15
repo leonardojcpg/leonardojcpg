@@ -1,4 +1,4 @@
-## Hey! my name is Leonardo.
+## Hey! I'm Leonardo.
 
 I'm a Android Developer
 ---
